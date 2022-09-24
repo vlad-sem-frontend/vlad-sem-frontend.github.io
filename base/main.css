@@ -1,0 +1,275 @@
+@import url(fonts.css);
+.vasa{
+   margin: 0 auto;
+}
+.none__d{
+   display: none;
+}
+.back__img {
+   background: url(../images/bgb-img.svg);
+   height: 768px;
+   background-position: center center;
+   background-size: cover;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+ }
+
+ .fillback{
+   height: 100%;
+   background-color: #c66c4946;
+}
+.skills__cont{
+   background-color:#FFFAF2;
+   height: 693px;
+   padding-top: 93px;
+}
+.marg003{
+   margin-top: 145px;
+}
+.container{
+   padding:0;
+}
+.progress{
+   background-color: #F5D6AB;
+   width: 65%;
+   height: 18px;
+   border-radius: 0;
+}
+.progress-bar{
+   background-color: #C66C49;
+}
+.text-propertyssss{
+   font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+}
+.text-propertyssss2{
+   font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+}
+.titletext{
+   font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+}
+h2{
+   font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+}
+h5{
+   font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+margin: 0;
+}
+p{
+   font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+text-align: justify;
+}
+.margin-top1{
+   margin-top: 95px;
+    margin-bottom: 70px;
+}
+.marg002{
+   margin-top: 106px;
+}
+.padtophed{
+   padding-top: 93px;
+}
+@media (min-width: 1400px){
+   .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+      max-width: 1110px;
+  }
+}
+
+.block__div{
+   height: 30px;
+}
+.portflex {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.marg__top{
+   margin-top: 86px;
+}
+.marg__bot{
+   margin-bottom: 145px;
+}
+.marg01{
+   margin-top: 48px;
+}
+.marg__bot-about{
+   margin-bottom:93px;
+}
+.marg__top-about{
+   margin-top: 93px;
+}
+.marg__content-about{
+   margin-top: 46px;
+}
+.pad__bot-footer{
+   padding-top: 70px;
+}
+.marg__top-foot{
+   margin-top: 50px;
+}
+@media (max-width: 575.98px) {
+.back__img{
+   background-attachment:inherit;
+}
+.marg__top-foot{
+   margin-top: 25px;
+   padding-bottom: 50px;
+}
+.none__d{
+   display: flex;
+}
+.padtophed{
+   padding-top: 36px;
+}
+.pad__bot-footer{
+   padding-top: 26px;
+}
+.marg__content-about{
+   margin-top: 20px;
+}
+.marg__top-about{
+   margin-top: 25px;
+}
+.marg__bot-about{
+   margin-bottom: 10px;
+}
+.marg__bot{
+   margin-bottom: 25px;
+}
+.skills__cont{
+   padding-top: 25px;
+}
+.marg004{
+   margin-bottom: 25px;
+}
+.marg__top{
+   margin-top: 25px;
+}
+   .container{
+   
+      padding: 0 15px;
+   } 
+   .titletext{
+      font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+}
+.marg003{
+   margin-top: 0px;
+}
+.back__img{
+   height: 275px;
+}
+.text-propertyssss2{
+   font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+}
+.text-propertyssss{
+   font-size: 13px;
+line-height: 16px;
+}
+  .marg02{
+     margin-top: 40px;
+  }
+   img[alt="profile"]{
+      width: 224px;
+      height: 218px;
+   }
+   .d-flex__center{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   
+   }
+.displ__none{
+   display: none;
+}
+h2{
+   font-weight: 600;
+}
+p{
+   font-size: 12px;
+line-height: 15px;
+}
+h5{
+   font-size: 12px;
+}
+h1{
+   font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+.marg-foot{
+   margin-top: 30px;
+}
+.margin-bot2{
+   margin-top: -88px;
+}
+.t-a-c{
+   text-align: center;
+}
+.marg01{
+   margin-top: 15px;
+}
+.logo__profile{
+height: 30px;
+width: 116px;
+}
+.but{
+   height: 24px;
+   width: 24px;
+   position: relative;
+}
+
+.text-propertyssss3{
+   font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+}
+.navimg{
+   top: 0;bottom: 0;left: 0;right: 0;
+   position: absolute;
+   margin: auto;
+}
+}
+
+   @media (min-width:575.98px) and (max-width:770px) {
+      img[alt="profile"]{
+         width: 140%;
+         height: 340px;
+         margin-left: 20px;
+      }
+      h5{
+         font-size: 15px;
+      }
+      p{
+         font-size: 13px;
+      }
+   }
+
+

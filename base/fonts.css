@@ -1,0 +1,8 @@
+@font-face {
+   font-family: 'Light300';
+   src: url(/fonts/static/LibreFranklin-Light.ttf);
+ }
+@font-face {
+   font-family: 'Libre Franklin';
+   src: url(/fonts/static/LibreFranklin-Regular.ttf);
+}
